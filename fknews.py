@@ -1,7 +1,7 @@
 import random
 
 subjects = [
-    "Hritik Roshan", "Virat Kohli", "A kerala cat", "A group of dogs", "Prime minister modi", "Ola driver","shah ruk khan"
+    "Hritik Roshan", "Virat Kohli", "A kerala cat", "A group of dogs", "Prime minister modi", "Ola driver","shah ruk khan",
     "Dhanush", "3 movie", "Spider man" , "A group of monkeys", "A group of cows", "A group of buffaloes", "A group of elephants", "A group of lions"
 ]
 
